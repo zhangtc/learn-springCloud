@@ -2,5 +2,27 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dubbo-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dubbo-consumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dubbo-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-consumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grpc-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-config-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-config-client-load" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-discovery-consumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-discovery-consumer-feign" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-discovery-consumer-webflux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-discovery-gateway-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nacos-discovery-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seata-biz-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seata-order-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seata-pay-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sentinel-core-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sentinel-feign-consumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sentinel-feign-provider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sentinel-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sentinel-gateway-service" vcs="Git" />
   </component>
 </project>

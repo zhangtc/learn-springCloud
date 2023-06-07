@@ -1,13 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/dubbo-common" />
+            <option value="$PROJECT_DIR$/dubbo-consumer" />
+            <option value="$PROJECT_DIR$/dubbo-provider" />
+            <option value="$PROJECT_DIR$/gradle-protobuf" />
+            <option value="$PROJECT_DIR$/grpc-consumer" />
+            <option value="$PROJECT_DIR$/grpc-protobuf" />
+            <option value="$PROJECT_DIR$/grpc-provider" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nacos-config-client" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nacos-config-client" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nacos-config-client-load" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nacos-config-client-load" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/nacos-discovery-consumer" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/nacos-discovery-consumer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nacos-discovery-consumer-feign" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nacos-discovery-consumer-feign" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nacos-discovery-consumer-webflux" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nacos-discovery-consumer-webflux" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nacos-discovery-gateway-server" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nacos-discovery-gateway-server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nacos-discovery-provider" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nacos-discovery-provider" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/seata-biz-service" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/seata-biz-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/seata-order-service" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/seata-order-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/seata-pay-service" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/seata-pay-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sentinel-core-example" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sentinel-core-example" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sentinel-feign-consumer" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sentinel-feign-consumer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sentinel-feign-provider" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sentinel-feign-provider" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sentinel-gateway" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sentinel-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sentinel-gateway-service" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/sentinel-gateway-service" />
           </set>
         </option>
       </GradleProjectSettings>

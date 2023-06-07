@@ -2,7 +2,7 @@
 syntax = "proto3";
 
 
-option java_package = "org.springcloud.proto";
+option java_package = "com.springcloud.proto";
 
 // The greeting service definition.
 service Greeter{

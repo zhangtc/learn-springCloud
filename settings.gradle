@@ -1,1 +1,9 @@
-rootProject.name = 'sentinel-gateway-service'
+rootProject.name = 'learn-springCloud'
+include 'dubbo-common'
+include 'dubbo-provider'
+include 'dubbo-consumer'
+include 'grpc-consumer'
+include 'grpc-provider'
+include 'grpc-protobuf'
+include 'gradle-protobuf'
+
