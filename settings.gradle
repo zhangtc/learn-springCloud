@@ -6,4 +6,5 @@ include 'grpc-consumer'
 include 'grpc-provider'
 include 'grpc-protobuf'
 include 'gradle-protobuf'
+include 'prometeus-grafana'
 

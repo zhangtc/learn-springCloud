@@ -59,6 +59,9 @@
       <module name="learn-alibaba.test" target="1.8" />
       <module name="learn-springCloud.protobuf.main" target="17" />
       <module name="learn-springCloud.protobuf.test" target="17" />
+      <module name="prometeus-grafana" target="17" />
+      <module name="prometeus-grafana.main" target="17" />
+      <module name="prometeus-grafana.test" target="17" />
       <module name="provider" target="17" />
       <module name="provider.main" target="17" />
       <module name="provider.test" target="17" />
