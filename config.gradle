@@ -50,6 +50,10 @@ ext {
             protoc                      : 'com.google.protobuf:protoc:3.23.2',
             actuator                    : 'org.springframework.boot:spring-boot-starter-actuator',
             prometheus                  : 'io.micrometer:micrometer-registry-prometheus:1.11.0',
+            apm_toolkit_trace           : 'org.apache.skywalking:apm-toolkit-trace:8.16.0',
+            apm_toolkit_logback         : 'org.apache.skywalking:apm-toolkit-logback-1.x:8.16.0',
+            spring_retry                : 'org.springframework.retry:spring-retry:2.0.1',
+            aspectjweaver               : 'org.aspectj:aspectjweaver:1.9.19',
 
 
 
