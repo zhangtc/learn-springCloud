@@ -3,6 +3,7 @@ ext {
     depsLibs = [
             spring_boot_starter         : 'org.springframework.boot:spring-boot-starter',
             spring_boot_starter_test    : 'org.springframework.boot:spring-boot-starter-test',
+            junit                       : 'junit:junit:4.13.2',
             web                         : "org.springframework.boot:spring-boot-starter-web",
             nacos_discovery             : "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:2022.0.0.0-RC2",
             nacos_config                : "com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-config:2022.0.0.0-RC2",
@@ -18,7 +19,7 @@ ext {
             spring_cloud_dependencies   : 'org.springframework.cloud:spring-cloud-dependencies:2022.0.2',
             gateway                     : 'org.springframework.cloud:spring-cloud-starter-gateway:4.0.5',
             jdbc                        : 'org.springframework.boot:spring-boot-starter-jdbc',
-            lombok                      : 'org.projectlombok:lombok:1.18.26',
+            lombok                      : 'org.projectlombok:lombok:1.18.28',
             mysql                       : 'com.mysql:mysql-connector-j',
             seata_all                   : 'io.seata:seata-all:1.7.0-native-rc2',
             seata_core                  : 'io.seata:seata-core:1.7.0-native-rc2',
@@ -54,6 +55,12 @@ ext {
             apm_toolkit_logback         : 'org.apache.skywalking:apm-toolkit-logback-1.x:8.16.0',
             spring_retry                : 'org.springframework.retry:spring-retry:2.0.1',
             aspectjweaver               : 'org.aspectj:aspectjweaver:1.9.19',
+            security                    : 'org.springframework.boot:spring-boot-starter-security:3.0.0',
+            thymeleaf                   : 'org.springframework.boot:spring-boot-starter-thymeleaf:3.0.0',
+            redis                       : 'org.springframework.boot:spring-boot-starter-data-redis:3.1.0',
+            hutool_all                  : 'cn.hutool:hutool-all:5.8.19',
+            data_jpa                    : 'org.springframework.boot:spring-boot-starter-data-jpa:3.1.0',
+            validation                  : 'org.springframework.boot:spring-boot-starter-validation:3.1.0',
 
 
 

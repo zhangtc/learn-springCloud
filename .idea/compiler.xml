@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" procOnly="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -10,61 +11,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="com.pig4cloud.alibaba.nacos-discovery-consumer" target="17" />
-      <module name="com.pig4cloud.alibaba.nacos-discovery-consumer.main" target="17" />
-      <module name="com.pig4cloud.alibaba.nacos-discovery-consumer.test" target="17" />
-      <module name="dubbo-common" target="17" />
-      <module name="dubbo-common.main" target="17" />
-      <module name="dubbo-common.test" target="17" />
-      <module name="dubbo-consumer" target="17" />
-      <module name="dubbo-consumer.main" target="17" />
-      <module name="dubbo-consumer.test" target="17" />
-      <module name="dubbo-provider" target="17" />
-      <module name="dubbo-provider.main" target="17" />
-      <module name="dubbo-provider.test" target="17" />
-      <module name="grpc-consumer" target="17" />
-      <module name="grpc-consumer.main" target="17" />
-      <module name="grpc-consumer.test" target="17" />
-      <module name="grpc-protobuf" target="17" />
-      <module name="grpc-protobuf.main" target="17" />
-      <module name="grpc-protobuf.test" target="17" />
-      <module name="grpc-provider" target="17" />
-      <module name="grpc-provider.main" target="17" />
-      <module name="grpc-provider.test" target="17" />
-      <module name="learn-alibaba.dubbo-common" target="17" />
-      <module name="learn-alibaba.dubbo-common.main" target="17" />
-      <module name="learn-alibaba.dubbo-common.test" target="17" />
-      <module name="learn-alibaba.dubbo-consumer" target="17" />
-      <module name="learn-alibaba.dubbo-consumer.main" target="17" />
-      <module name="learn-alibaba.dubbo-consumer.test" target="17" />
-      <module name="learn-alibaba.dubbo-provider" target="17" />
-      <module name="learn-alibaba.dubbo-provider.main" target="17" />
-      <module name="learn-alibaba.dubbo-provider.test" target="17" />
-      <module name="learn-alibaba.grpc-consumer" target="17" />
-      <module name="learn-alibaba.grpc-consumer.main" target="17" />
-      <module name="learn-alibaba.grpc-consumer.test" target="17" />
-      <module name="learn-alibaba.grpc-lib" target="17" />
-      <module name="learn-alibaba.grpc-lib.main" target="17" />
-      <module name="learn-alibaba.grpc-lib.test" target="17" />
-      <module name="learn-alibaba.grpc-protobuf" target="17" />
-      <module name="learn-alibaba.grpc-protobuf.main" target="17" />
-      <module name="learn-alibaba.grpc-protobuf.test" target="17" />
-      <module name="learn-alibaba.grpc-provider" target="17" />
-      <module name="learn-alibaba.grpc-provider.main" target="17" />
-      <module name="learn-alibaba.grpc-provider.test" target="17" />
-      <module name="learn-alibaba.main" target="1.8" />
-      <module name="learn-alibaba.protobuf" target="17" />
-      <module name="learn-alibaba.protobuf.main" target="17" />
-      <module name="learn-alibaba.protobuf.test" target="17" />
-      <module name="learn-alibaba.test" target="1.8" />
-      <module name="learn-springCloud.protobuf.main" target="17" />
-      <module name="learn-springCloud.protobuf.test" target="17" />
-      <module name="prometeus-grafana" target="17" />
-      <module name="prometeus-grafana.main" target="17" />
-      <module name="prometeus-grafana.test" target="17" />
-      <module name="provider" target="17" />
-      <module name="provider.main" target="17" />
-      <module name="provider.test" target="17" />
+      <module name="security2.main" target="1.8" />
+      <module name="security2.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

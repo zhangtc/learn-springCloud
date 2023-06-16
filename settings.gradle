@@ -7,4 +7,5 @@ include 'grpc-provider'
 include 'grpc-protobuf'
 include 'gradle-protobuf'
 include 'prometeus-grafana'
+include 'spring-security'
 

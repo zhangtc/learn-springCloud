@@ -4,6 +4,8 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
@@ -19,6 +21,7 @@
             <option value="$PROJECT_DIR$/grpc-protobuf" />
             <option value="$PROJECT_DIR$/grpc-provider" />
             <option value="$PROJECT_DIR$/prometeus-grafana" />
+            <option value="$PROJECT_DIR$/spring-security" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -175,6 +178,17 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sentinel-gateway-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-security2" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Dev/Gradle/gradle-8.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-security2" />
           </set>
         </option>
       </GradleProjectSettings>

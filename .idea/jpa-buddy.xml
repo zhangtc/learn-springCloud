@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="JpaBuddyIdeaProjectConfig">
+  <component name="JpaBuddyIdeaProjectConfig" newRepositoryParent="org.springframework.data.jpa.repository.JpaRepository">
+    <option name="defaultUnitInitialized" value="true" />
     <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="7822a1bf-cc15-463e-96ee-ddba00270314" />
+    <option name="reLastEntityCreationPackage" value="spring-security/src/main/java/com/springcloud/security/data" />
   </component>
 </project>
