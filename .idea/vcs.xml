@@ -26,5 +26,6 @@
     <mapping directory="$PROJECT_DIR$/sentinel-gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sentinel-gateway-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-security2" vcs="Git" />
   </component>
 </project>
